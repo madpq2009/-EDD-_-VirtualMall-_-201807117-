@@ -1,4 +1,4 @@
-package Estructuras
+package Estructura
 
 import (
 	"fmt"
